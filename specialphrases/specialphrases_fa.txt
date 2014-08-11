@@ -155,31 +155,31 @@ bridleway,Bridleway
 bus_guideway,مسیر اتوبوس
 bus_stop,ایستگاه اتوبوس
 byway,Byway
-construction,Highway under Construction
-cycleway,Cycle Path
+construction,بزرگراه در حال ساخت
+cycleway,مسیر دوچرخه
 distance_marker,Distance Marker
 emergency_access_point,Emergency Access Point
-footway,Footpath
+footway,پیاده رو
 ford,Ford
 gate,Gate
 living_street,خیابان مسکونی
 minor,راه کوچک
 motorway,بزرگراه
 motorway_junction,Motorway Junction
-motorway_link,Motorway Road
+motorway_link,آزادراه
 path,Path
 pedestrian,Pedestrian Way
 platform,Platform
-primary,Primary Road
-primary_link,Primary Road
+primary,راه اصلی
+primary_link,راه اصلی
 raceway,Raceway
-residential,Residential
-residential,Residential Road
-rest_area,Rest Area
-rest_area,Rest Stop
-road,Road
-secondary,Secondary Road
-secondary_link,Secondary Road
+residential,عابر پیاده
+residential,راه عابر پیاده
+rest_area,استراحتگاه
+rest_area,استراحتگاه
+road,راه
+secondary,راه فرعی
+secondary_link,راه فرعی
 service,Service Road
 services,Service Area
 services,Motorway Services
@@ -195,18 +195,18 @@ unsurfaced,Unsurfaced Road
 archaeological_site,Archaeological Site
 battlefield,Battlefield
 boundary_stone,Boundary Stone
-building,Building
-castle,Castle
-church,Church
-house,House
+building,ساختمان
+castle,قلعه
+church,کلیسا
+house,خانه
 icon,Icon
 manor,Manor
 memorial,Memorial
-mine,Mine
+mine,معدن
 monument,Monument
-museum,Museum
+museum,موزه
 ruins,Ruin
-tower,Tower
+tower,برج
 wayside_cross,Wayside Cross
 wayside_shrine,Wayside Shrine
 wreck,Wreck
@@ -231,11 +231,11 @@ mine,Mine
 mountain,Mountain
 nature_reserve,Nature Reserve
 nature_reserve,Nature Reserves
-park,Park
+park,پارک
 piste,Piste
 plaza,Plaza
 quarry,Quarry
-railway,Railway
+railway,راه آهن
 recreation_ground,Recreation Ground
 reservoir,Reservoir
 residential,Residential Area
@@ -247,7 +247,7 @@ wood,Wood
 beach_resort,Beach Resort
 common,Common Land
 fishing,Fishing Area
-garden,Garden
+garden,باغ
 golf_course,Golf Course
 hackerspace,Hackerspace
 ice_rink,Ice Rink
@@ -255,19 +255,19 @@ marina,Marina
 miniature_golf,Miniature Golf
 nature_reserve,Nature Reserve
 nature_reserve,Nature Reserves
-park,Park
+park,پارک
 pitch,Sports Pitch
 playground,Playground
 recreation_ground,Recreation Ground
 slipway,Slipway
 sports_centre,Sports Centre
 sports_centre,Sports Centre
-stadium,Stadium
+stadium,استادیوم
 swimming_pool,Swimming Pool
 track,Running Track
-water_park,Water Park
+water_park,پارک آبی
 bay,Bay
-beach,Beach
+beach,ساحل
 cape,Cape
 cave_entrance,Cave Entrance
 channel,Channel
@@ -290,39 +290,39 @@ peak,Peak
 point,Point
 reef,Reef
 ridge,Ridge
-river,River
-rock,Rock
+river,رودخانه
+rock,صخره
 scree,Scree
 scrub,Scrub
 shoal,Shoal
 spring,Spring
 strait,Strait
-tree,Tree
+tree,درخت
 valley,Valley
 volcano,Volcano
 water,Water
 wetland,Wetland
 wetlands,Wetlands
-wood,Wood
-city,City
+wood,جنگل
+city,شهر
 country,Country
 county,County
 farm,Farm
 hamlet,Hamlet
 house,House
 houses,Houses
-island,Island
+island,جزیره
 islet,Islet
 locality,Locality
 moor,Moor
 municipality,Municipality
-postcode,Postcode
+postcode,کد پستی
 region,Region
-sea,Sea
+sea,دریا
 state,State
 subdivision,Subdivision
 suburb,Suburb
-town,Town
+town,شهر
 unincorporated_area,Unincorporated Area
 village,Village
 abandoned,Abandoned Railway
@@ -355,7 +355,7 @@ art,Art Shop
 bakery,Bakery
 beauty,Beauty Shop
 beverages,Beverages Shop
-bicycle,Bicycle Shop
+bicycle,فروشگاه دوچرخه
 books,Book Shop
 butcher,Butcher
 car,Car Shop
@@ -401,8 +401,8 @@ kiosk,Kiosk Shop
 laundry,Laundry
 mall,Mall
 market,Market
-mobile_phone,Mobile Phone Shop
-motorcycle,Motorcycle Shop
+mobile_phone,فروشگاه موبایل
+motorcycle,فروشگاه موتورسیکلت
 music,Music Shop
 newsagent,Newsagent
 newsagent,Newsagents
@@ -415,10 +415,10 @@ salon,Salon
 shoes,Shoe Shop
 shopping_centre,Shopping Centre
 shopping_centre,Shopping Center
-sports,Sports Shop
+sports,فروشگاه ورزشی
 stationery,Stationery Shop
-supermarket,Supermarket
-toys,Toy Shop
+supermarket,سوپر مارکت
+toys,فروشگاه اسباب بازی
 travel_agency,Travel Agency
 video,Video Shop
 wine,Off License
@@ -430,18 +430,18 @@ cabin,Cabin
 camp_site,Camp Site
 caravan_site,Caravan Site
 chalet,Chalet
-guest_house,Guest House
+guest_house,مهمان خانه
 hostel,Hostel
-hotel,Hotel
+hotel,هتل
 information,Information
 lean_to,Lean To
 motel,Motel
-museum,Museum
+museum,موزه
 picnic_site,Picnic Site
 theme_park,Theme Park
 valley,Valley
 viewpoint,Viewpoint
-zoo,Zoo
+zoo,باغ وحش
 boatyard,Boatyard
 canal,Canal
 connector,Waterway Connector
@@ -455,11 +455,11 @@ lock_gate,Lock Gate
 mineral_spring,Mineral Spring
 mooring,Mooring
 rapids,Rapids
-river,River
+river,روخانه
 riverbank,Riverbank
 stream,Stream
 wadi,Wadi
-waterfall,Waterfall
+waterfall,آبشار
 water_point,Water Point
 weir,Weir
 windmill,Windmill
